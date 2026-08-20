@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Mochamad Aleandre Moulidouane 👋
 
-<!--
-**VSaleXD/VSaleXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **IPB University** – Ilmu Komputer 61  
+🏙️ **Sukabumi City**  
+🎮 Gamer | Computer Enthusiast  
+👾 *“Playin’ life every day. Levelin’ up.”*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Game Development & Projects
+
+Saya aktif mengembangkan berbagai proyek game, terutama menggunakan **Unity & C#**, serta beberapa proyek perkuliahan dan pengembangan perangkat lunak
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** C#, C++. JavaScript
+* **Tools:** Unity, Git, VS Code, Visual Studio
+* **Focus Areas:** Game Development
+
+---
+
+### 📫 Connect With Me
+
+* 📷 Instagram: [@moulidouane](https://www.instagram.com/moulidouane/?hl=id)
+* 🐙 GitHub: [VSaleXD](https://github.com/VSaleXD)
