@@ -24,4 +24,3 @@ Saya aktif mengembangkan berbagai proyek game, terutama menggunakan **Unity & C#
 ### 📫 Connect With Me
 
 * 📷 Instagram: [@moulidouane](https://www.instagram.com/moulidouane/?hl=id)
-* 🐙 GitHub: [VSaleXD](https://github.com/VSaleXD)
